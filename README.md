@@ -1,6 +1,6 @@
 
 
-# Automated Test Framework "jawahry"
+# Automated Test Framework "jawy"
 
 This project is an automated test framework built using Java, Cucumber BDD framework, and Selenium WebDriver. The framework is designed to validate the subscription packages on the website [https://subscribe.stctv.com/](https://subscribe.stctv.com/).
 
